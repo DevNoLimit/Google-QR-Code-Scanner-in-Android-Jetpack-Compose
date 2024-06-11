@@ -12,9 +12,8 @@ The Google code scanner API provides a complete solution for scanning code witho
   <li>No need to write code for handle scan and camera lifecycle.</li>
 </ol>
 
-<h3>Youtube Video Reference</h3>
-<iframe width="420" height="315"
-src="https://youtu.be/GcIXdJ21Nw8">
-</iframe>
+## Watch the Video
+
+[![Watch the video](https://img.youtube.com/vi/GcIXdJ21Nw8/0.jpg)](https://www.youtube.com/watch?v=GcIXdJ21Nw8)
 
 <h3>Thanks for your support.</h3>
